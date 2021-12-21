@@ -253,21 +253,4 @@ let inputRange = () => {
 
 appData.EventListener();
 appData.getInfoDeposit();
-// let target = () => {
-//   if (appData.getTargetMonth() > 0) {
-//     console.log(`цель будет достигнута за ${appData.getTargetMonth()} месяца`);
-//   } else {
-//     console.log('цель не будет достигнута');
-//   }
-// };
 
-// let finalFunc = () => {
-//     for(let key in appData) {
-//       // console.log('Наша программа включает в себя данные: ' + key + ': ' + appData[key]);
-//     }
-//   };
-
-// appData.start();
-
-// target();
-// finalFunc();
